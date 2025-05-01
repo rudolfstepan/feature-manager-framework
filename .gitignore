@@ -1,0 +1,8 @@
+﻿################################################################################
+# Diese .gitignore-Datei wurde von Microsoft(R) Visual Studio automatisch erstellt.
+################################################################################
+
+/samples/SampleConsoleApp/bin/Debug/net8.0
+/samples/SampleConsoleApp/obj
+/src/FeatureManager/obj
+/src/FeatureManager/bin/Debug/net8.0
