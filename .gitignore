@@ -8,3 +8,7 @@
 /src/FeatureManager/bin/Debug/net8.0
 .vs/**.*
 /.vs/All/CopilotIndices/17.12.78.46542
+/.vs/All
+/samples/feature_manager_remote_demo/.vs/ProcessFeatureDemo
+/samples/feature_manager_remote_demo/bin/Debug/net8.0
+/samples/feature_manager_remote_demo/obj
