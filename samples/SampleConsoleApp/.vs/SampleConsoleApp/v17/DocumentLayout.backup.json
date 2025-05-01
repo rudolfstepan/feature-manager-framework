@@ -1,16 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Development\\rudolfstepan_github\\FeatureManagerFramework\\samples\\SampleConsoleApp\\",
+  "WorkspaceRootPath": "D:\\Development\\rudolfstepan_github\\feature-manager-framework\\samples\\SampleConsoleApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{89ADAA22-6F13-40E2-AEB4-BA6C22BFA64A}|..\\..\\src\\FeatureManager\\FeatureManager.csproj|d:\\development\\rudolfstepan_github\\featuremanagerframework\\src\\featuremanager\\attributes\\featuretagattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3CA9A5BC-1471-4895-8B59-7F28D62AE5B8}|SampleConsoleApp.csproj|d:\\development\\rudolfstepan_github\\featuremanagerframework\\samples\\sampleconsoleapp\\features\\featurea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3CA9A5BC-1471-4895-8B59-7F28D62AE5B8}|SampleConsoleApp.csproj|solutionrelative:features\\featurea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3CA9A5BC-1471-4895-8B59-7F28D62AE5B8}|SampleConsoleApp.csproj|d:\\development\\rudolfstepan_github\\featuremanagerframework\\samples\\sampleconsoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3CA9A5BC-1471-4895-8B59-7F28D62AE5B8}|SampleConsoleApp.csproj|d:\\development\\rudolfstepan_github\\feature-manager-framework\\samples\\sampleconsoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3CA9A5BC-1471-4895-8B59-7F28D62AE5B8}|SampleConsoleApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -122,40 +115,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "FeatureTagAttribute.cs",
-              "DocumentMoniker": "D:\\Development\\rudolfstepan_github\\FeatureManagerFramework\\src\\FeatureManager\\Attributes\\FeatureTagAttribute.cs",
-              "RelativeDocumentMoniker": "..\\..\\src\\FeatureManager\\Attributes\\FeatureTagAttribute.cs",
-              "ToolTip": "D:\\Development\\rudolfstepan_github\\FeatureManagerFramework\\src\\FeatureManager\\Attributes\\FeatureTagAttribute.cs",
-              "RelativeToolTip": "..\\..\\src\\FeatureManager\\Attributes\\FeatureTagAttribute.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-01T12:55:47.224Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "FeatureA.cs",
-              "DocumentMoniker": "D:\\Development\\rudolfstepan_github\\FeatureManagerFramework\\samples\\SampleConsoleApp\\Features\\FeatureA.cs",
-              "RelativeDocumentMoniker": "Features\\FeatureA.cs",
-              "ToolTip": "D:\\Development\\rudolfstepan_github\\FeatureManagerFramework\\samples\\SampleConsoleApp\\Features\\FeatureA.cs",
-              "RelativeToolTip": "Features\\FeatureA.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-01T12:54:43.507Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Development\\rudolfstepan_github\\FeatureManagerFramework\\samples\\SampleConsoleApp\\Program.cs",
+              "DocumentMoniker": "D:\\Development\\rudolfstepan_github\\feature-manager-framework\\samples\\SampleConsoleApp\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\Development\\rudolfstepan_github\\FeatureManagerFramework\\samples\\SampleConsoleApp\\Program.cs",
+              "ToolTip": "D:\\Development\\rudolfstepan_github\\feature-manager-framework\\samples\\SampleConsoleApp\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABAAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-01T12:48:45.401Z",
+              "WhenOpened": "2025-05-01T13:13:12.345Z",
               "EditorCaption": ""
             }
           ]
