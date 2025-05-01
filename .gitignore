@@ -6,4 +6,5 @@
 /samples/SampleConsoleApp/obj
 /src/FeatureManager/obj
 /src/FeatureManager/bin/Debug/net8.0
-.vs
+.vs/**.*
+/.vs/All/CopilotIndices/17.12.78.46542
