@@ -1,0 +1,10 @@
+[
+  {
+    "featureKey": "OrderWorkflow",
+    "conditions": [
+      { "type": "CustomerTier", "value": "Premium" },
+      { "type": "TimeWindow", "from": "08:00", "to": "18:00" }
+    ],
+    "sequence": ["Capture", "Validate", "Authorize", "Ship"]
+  }
+]
