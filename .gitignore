@@ -12,3 +12,12 @@
 /samples/feature_manager_remote_demo/.vs/ProcessFeatureDemo
 /samples/feature_manager_remote_demo/bin/Debug/net8.0
 /samples/feature_manager_remote_demo/obj
+/.vs
+/samples/feature_manager_remote_demo/.vs/ProjectEvaluation
+/v2/FeatureManagerFramework/bin/Debug/net8.0
+/v2/FeatureManagerFramework/obj
+/v2/SampleApp/.vs
+/v2/SampleApp/bin/Debug/net8.0
+/v2/SampleApp/obj
+/v2/SamplePlugin/bin/Debug/net8.0
+/v2/SamplePlugin/obj
